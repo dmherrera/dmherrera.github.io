@@ -13,7 +13,7 @@ import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
 import logo_sub from './logo-preload.png';
-import logo from './logo-d2.png';
+import logo from './logo-d.png';
 import logo_letra from './logo-sub.png';
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
